@@ -1,2 +1,3 @@
-# terraform_aws_s3_backend_module
-Terraform Backend Module for AWS S3
+# S3 Backend Module
+This module will deploy an S3 remote backend for Terraform
+This file is required for registering a module with the Terraform Module Registry
